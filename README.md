@@ -3,7 +3,7 @@
 # Using-MPU6050-IMU-with-arduino
 
 
-![image](https://user-images.githubusercontent.com/19898602/134220671-4817ae02-1f43-4694-9912-126c62e4cb0a.png)
+![image](https://user-images.githubusercontent.com/19898602/145222775-7fe80f98-87ff-430d-a100-4e419fb48267.png)
 
 
 Hello all, welcome to another Arduino Sensor Tutorial, in this Blog, we will learn how to wire and code MPU 6050 which is a 6 axis Accelerometer, with our Arduino Board, in detail, so follow till end!
